@@ -1,7 +1,7 @@
 ---
 name: "[feature/브랜치명] 기능명"
 about: 기능 관련 작업 사항을 입력해주세요
-title: ''
+title: "[feature/브랜치명] 기능명"
 labels: ''
 assignees: ''
 
