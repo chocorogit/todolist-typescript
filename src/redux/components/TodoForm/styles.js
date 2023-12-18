@@ -16,6 +16,7 @@ const StButton = styled.button`
     width: 100%;
     height: 40px;
     margin-top: 20px;
+    font-size: 16px;
     background: #edb04f;
     border-radius: 4px;
 `;

@@ -1,13 +1,15 @@
-import GlobalStyle from './GlobalStyle';
-import Router from './shared/Router';
+import { Toaster } from 'react-hot-toast'
+import GlobalStyle from './GlobalStyle'
+import Router from './shared/Router'
 
 function App() {
-    return (
-        <>
-            <GlobalStyle />
-            <Router />
-        </>
-    );
+  return (
+    <>
+      <Toaster />
+      <GlobalStyle />
+      <Router />
+    </>
+  )
 }
 
-export default App;
+export default App
